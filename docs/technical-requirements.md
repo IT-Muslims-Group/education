@@ -182,7 +182,7 @@ pass
 * darslar tarixi
 
 #### Darslar tarixi jadval ko'rinishida bo'ladi.
-Admin o'qituvchilarni ma'lumotlarini o'zgartira olmaydi. O'qituvchilarning faqat o'zlari shaxsiy kabinetlaridan o'zgartira olishlari mumkun bo'ladi. O'qituvchini bo'shatish ham shu sahifada amalga oshiriladi. Bo'shatish uchun admin bo'shatish tugmasini bosadi va ketish sababi yozilib tasdiqlanadi.
+#### Admin o'qituvchilarni ma'lumotlarini o'zgartira olmaydi. O'qituvchilarning faqat o'zlari shaxsiy kabinetlaridan o'zgartira olishlari mumkun bo'ladi. O'qituvchini bo'shatish ham shu sahifada amalga oshiriladi. Bo'shatish uchun admin bo'shatish tugmasini bosadi va ketish sababi yozilib tasdiqlanadi.
 
 #### Shuningdek bu bo'limda o'qituvchilar tarixi ham bo'ladi. Yani markazda ishlab ketgan o'qituvchilar ro'yhati jadval ko'rinishida:
 
@@ -206,7 +206,7 @@ Admin o'qituvchilarni ma'lumotlarini o'zgartira olmaydi. O'qituvchilarning faqat
 #### Bu sahifada yangi guruh qo'shish funksiyasi ham bo'ladi. Bunda admin guruh qo'shish tugmasini bosadi va guruh ma'lumotlarini kiritadi.
 
 #### Har bir guruh ustiga bosganda guruhdagi o'quvchilarning ma'lumotlari (ism, familiyasi, to'lov statusi) va shu guruhning dars jadvali ko'rinib turadi.
-Shuningdek o'quvchilarni guruhlarga qo'shish va guruhlardan o'chirish ham shu sahifada amalga oshiriladi.
+#### Shuningdek o'quvchilarni guruhlarga qo'shish va guruhlardan o'chirish ham shu sahifada amalga oshiriladi.
 
 #### 5. Darslar tarixi bo'limi. Bu bo'limda darslar ro'yhati jadval ko'rinishida ko'rinib turadi:
 
