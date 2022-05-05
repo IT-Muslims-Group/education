@@ -1,33 +1,29 @@
 # 1. Loyiha maqsadi
-`
-Loyiha maqsadi - o'quv markazidagi ichki tizimni, ya'ni, o'quvchilar qabuli, davomati, to'lov tizimi va hokazolarni avtomatizatsiya qilish sistemasini ishlab chiqish. Yangi kelgan o'quvchilarga yoki begona shaxslarga markazning muvaffaqiyatli bitiruvchilari erishgan natijalarini ko'rsatib berish va bu orqali yangi o'quvchilarda o'qishga bo'lgan intilishni kuchaytirish.
-`
+### Loyiha maqsadi - o'quv markazidagi ichki tizimni, ya'ni, o'quvchilar qabuli, davomati, to'lov tizimi va hokazolarni avtomatizatsiya qilish sistemasini ishlab chiqish. Yangi kelgan o'quvchilarga yoki begona shaxslarga markazning muvaffaqiyatli bitiruvchilari erishgan natijalarini ko'rsatib berish va bu orqali yangi o'quvchilarda o'qishga bo'lgan intilishni kuchaytirish.
 
 # 2. Loyiha tavsifi
-```
-Sistema quyidagi asosiy bloklardan tashkil topadi:
+
+### Sistema quyidagi asosiy bloklardan tashkil topadi:
 1. O'quv markaz haqida umumiy ma'lumotlar, o'quvchilar yutuqlari.
 2. Ro'yhatdan o'tish, autentifikatsiya, shaxsiy kabinet.
 3. O'quvchilarni qabul qilish va guruhga biriktirish, davomat, tolov statusi, darslar jadvali,
 4. Yangiliklar, xabarnomalar.
-```
 
-```
-Loyihada asosiy funksional uchun mobil ilova, administratsiya ishlari uchun web-sayt (adminka) ishlab chiqiladi. 
-```
+
+### Loyihada asosiy funksional uchun mobil ilova, administratsiya ishlari uchun web-sayt (adminka) ishlab chiqiladi. 
+
 # 3. Foydalanuvchi turlari
-```
+
 1. Mehmonlar (ro'yhatdan o'tmagan barcha foydalanuvchilar).
 2. O'quvchilar.
 3. O'qituvchilar.
 4. Admin.
 5. Superadmin.
-```
 
 # 4. Ro'yhatdan o'tish, autentifikatsiya, foydalanuvchi imkoniyatlari
-```
-Sistemaga kirish telefon raqami va parol orqali amalga oshiriladi.
-```
+
+### Sistemaga kirish telefon raqami va parol orqali amalga oshiriladi.
+
 
 ```
 1. O'quvchilar mobil ilovaning ro'yhatdan o'tish sahifasiga kirishadi va quyidagi ma'lumotlarni kiritishadi:
