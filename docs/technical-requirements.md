@@ -1,7 +1,7 @@
 # 1. Loyiha maqsadi
-```
+`
 Loyiha maqsadi - o'quv markazidagi ichki tizimni, ya'ni, o'quvchilar qabuli, davomati, to'lov tizimi va hokazolarni avtomatizatsiya qilish sistemasini ishlab chiqish. Yangi kelgan o'quvchilarga yoki begona shaxslarga markazning muvaffaqiyatli bitiruvchilari erishgan natijalarini ko'rsatib berish va bu orqali yangi o'quvchilarda o'qishga bo'lgan intilishni kuchaytirish.
-```
+`
 
 # 2. Loyiha tavsifi
 ```
@@ -15,7 +15,7 @@ Sistema quyidagi asosiy bloklardan tashkil topadi:
 ```
 Loyihada asosiy funksional uchun mobil ilova, administratsiya ishlari uchun web-sayt (adminka) ishlab chiqiladi. 
 ```
-# 3. Foydalanuvchilar turlari
+# 3. Foydalanuvchi turlari
 ```
 1. Mehmonlar (ro'yhatdan o'tmagan barcha foydalanuvchilar).
 2. O'quvchilar.
