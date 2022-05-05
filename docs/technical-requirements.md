@@ -222,23 +222,23 @@ Shuningdek o'quvchilarni guruhlarga qo'shish va guruhlardan o'chirish ham shu sa
 
 `Har bir dars ustiga bosganda o'sha darsga tegishli davomat ko'rinib turadi.`
 
-`6. Yangiliklar bo'limi. Bu bo'limda yangiliklar ro'yhati jadval ko'rinishida ko'rinib turadi:`
+#### 6. Yangiliklar bo'limi. Bu bo'limda yangiliklar ro'yhati jadval ko'rinishida ko'rinib turadi:
 
 * sarlavhasi
 * sanasi
 * rasmi
 
-`Yangilik qo'shish ham shu sahifada amalga oshiriladi. Bunda yangilik qo'shish tugmasini bosib yangilik ma'lumotlari kiritiladi (sarlavha, rasm, matn).`
+### Yangilik qo'shish ham shu sahifada amalga oshiriladi. Bunda yangilik qo'shish tugmasini bosib yangilik ma'lumotlari kiritiladi (sarlavha, rasm, matn).
 
-`Har bir yangilik ustiga bosib uni o'zgartirish imkoniyati ham mavjud.`
+### Har bir yangilik ustiga bosib uni o'zgartirish imkoniyati ham mavjud.
 
 ## 6.2. Superadmin uchun.
 
-`Superadmin uchun adminda bor barcha bo'limlarga yana 7-bo'lim qo'shiladi.`
+### Superadmin uchun adminda bor barcha bo'limlarga yana 7-bo'lim qo'shiladi.
 
-`Adminlar boshqaruvi bo'limi. Bu bo'limda admin qo'shish yoki olib tashlash imkoniyati mavjud bo'ladi.`
+### Adminlar boshqaruvi bo'limi. Bu bo'limda admin qo'shish yoki olib tashlash imkoniyati mavjud bo'ladi.
 
-`Barcha adminlar quyidagi ma'lumotlar bilan ko'rinib turadi:`
+### Barcha adminlar quyidagi ma'lumotlar bilan ko'rinib turadi:
 
 * ism familiyasi
 * telefon raqami
@@ -250,5 +250,5 @@ Shuningdek o'quvchilarni guruhlarga qo'shish va guruhlardan o'chirish ham shu sa
 
 # 7. Xabarnomalar.
 
-`1. O'quvchining to'lov statusi "to'lanmagan/qizil"ga o'tishi bilan o'quvchidagi mobile ilovaga xabarnoma keladi. Xabarnoma matni taxminan quyidagicha bo'ladi:
-"Xurmatli Falonchi, Sizga falon o'quv markaziga to'lov qilish vaqtingiz kelganini eslatib o'tamiz".`
+### 1. O'quvchining to'lov statusi "to'lanmagan/qizil"ga o'tishi bilan o'quvchidagi mobile ilovaga xabarnoma keladi. Xabarnoma matni taxminan quyidagicha bo'ladi:
+`"Xurmatli Falonchi, Sizga falon o'quv markaziga to'lov qilish vaqtingiz kelganini eslatib o'tamiz".`
