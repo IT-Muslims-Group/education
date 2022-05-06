@@ -108,9 +108,38 @@ Har bir guruh haqida ma'lumot (fan nomi, guruh nomi, o'qituvchi fio, o'quvchilar
 2) Admin qo'shish, o'chirish, o'zgartirish.
 
 # 5. Mobil ilova batafsil.
-```  
-pass
-```
+
+1. Mobil ilova arxitekturasi:
+Ro’yxatdan o’tmagan user uchun demo application ochiladi. Uyerdan ro’yxatdan o’tish oynasiga o’tib Ro’yxatdan o’tishi mumkin bo’adi. Bunda kerakli malumotlarni kiritib sms orqali tasqidlangandan keyin so’rov adminga yuboriladi va userga “So’rovingiz adminga yuborildi. Admin tasdiqlashini kuting. Tez orada sizga xabar beramiz” mazmunida xabar chiqadi. Qachonki admin tasdiqlasa user nomeriga sms xabar keladi: “Siz muvaffaqiyatli ro’yxatdan o’tdingiz. Siz o’quv markazimiz o’quvchisiga aylandingiz va dasturdan to’liq imkoniyatda foydalanishingiz mumkin”.
+Shundan so’ng user dasturning Login oynasidan o’z profiliga kirishi mumkin bo’ladi. 
+Ro’yxatdan o’tgan user uchun asosiy App ochiladi.  Dastur faqat O’zbek(lotin alifbosi) tilida va yorug’ rejimda bo’ladi.
+
+2. O’quv markaz ma’lumotlari sahifasi tasnifi(ya’ni ro’yxatdan o’tmagan user uchun maxsus sahifa):
+Tarkibiy qismlar:
+    • O’quv markaz haqida umumiy ma’lumotlar
+    • Tashkil topishi
+    • Manzillari
+    • Qadriyatlari
+    • Yangilik va e’lonlar
+    • Kontaktlari(tel, telegram, facebook, you tube)
+    • Fanlar ro’yxati(foydaliniladigan adabiyotlar, dars rejalar)
+    • O’qituvchilar haqida ma’lumotlar(erishgan yutuqlari)
+    • Muvaffaqiyatga erishgan o’quvchilar haqida ma’lumotlar.
+
+3. Foydalanuvchi turlari:
+    • O’qituvchi
+    • O’quvchi
+
+4. Ro’yxatdan o’tish:
+Ro’yxatdan o’tish uchun kiritiladigan ma’lumotlar:
+    • Ism, sharif, familiya
+    • Tug’ilgan sana
+    • Telefon raqam
+    • Parol
+Foydalanuvchi sms verification orqali tasdiqlanadi. So’rov adminga yuboriladi va userga “So’rovingiz adminga yuborildi. Admin tasdiqlashini kuting. Tez orada sizga xabar beramiz” mazmunida xabar chiqadi. Qachonki admin tasdiqlasa user nomeriga sms xabar keladi: “Siz muvaffaqiyatli ro’yxatdan o’tdingiz. Siz o’quv markazimiz o’quvchisiga aylandingiz va dasturdan to’liq imkoniyatda foydalanishingiz mumkin”.
+
+4. Tizimga kirish.
+​ Tizimga kirish telefon raqami va parol orqali amalga oshiriladi. Parolni unutganda uni sms verification orqali o’zgartirishi mumkin.
 
 # 6. Web-sayt (adminka) batafsil.
 
