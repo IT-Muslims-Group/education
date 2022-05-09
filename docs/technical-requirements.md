@@ -141,6 +141,39 @@ Foydalanuvchi sms verification orqali tasdiqlanadi. So’rov adminga yuboriladi 
 4. Tizimga kirish.
 ​ Tizimga kirish telefon raqami va parol orqali amalga oshiriladi. Parolni unutganda uni sms verification orqali o’zgartirishi mumkin.
 
+5. Asosiy app tasnifi(ro’yxatdan o’tgan o’quvchi va o’qituvchi uchun):
+
+Asosiy app quyidagi bo’limlardan iborat bo’ladi(Navigation Component):
+
+* Guruhlar
+* O’quv markaz
+* Profil
+
+1. Guruhlar.
+Bunda O’quvchining o’zi qatnashadigan guruhlari ro’yxati. O’qituvchi uchun o’zi murabbiylik qiladigan guruhlar ro’yxati. 
+    • guruh nomi
+    • fan nomi
+    • o’qituvchi ismi
+    • dars vaqtlari
+Ustiga bosib kirilganda 
+    • guruh nomi
+    • fan nomi(ustiga borganda foydalaniladigan adabiyotlar ro’yxati, dars reja)
+    • o’qituvchi ismi(ustiga bosganda u haqida ma’lumot)
+    • dars vaqtlari
+    • o’quvchilar soni
+    • o’quvchilar ro’yxati 
+    • o’quvchi uchun:
+        ◦ o’z davomati
+        ◦ to’lov tarixi
+    • O’qituvchi uchun
+        ◦ Har bir oʻquvchi davomati
+        ◦ Oʻquvchi maʼlumotlari
+        ◦ Oʻquvchi toʻlov statusi.
+2. Ro’yxatdan o’tmagan foydalanuvchi sahifasi bilan bir xil
+3. Profil
+Oʻquvchi yoki oʻqituvchi malumotlari, ularni oʻzgartirish
+
+
 # 6. Web-sayt (adminka) batafsil.
 
 #### Web-saytning asosiy bo'limlari sidebar (menyu) orqali ajratiladi. Web-sayt quyidagi asosiy bo'limlardan tashkil topadi:
